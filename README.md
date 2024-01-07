@@ -39,8 +39,10 @@ Game simulator takes both teams lineups & tactics as input
 ## Screenshots
 
 few screenshots from mobile app
+<p float="left">
+<img src='https://github.com/svhein/Hokimanager-public/blob/main/images/LineupView.jpg' width='300'>
+<img src='https://github.com/svhein/Hokimanager-public/blob/main/images/ResultCenterScreen.jpg' width='300'>
+<img src='https://github.com/svhein/Hokimanager-public/blob/main/images/GameScreen1.jpg' width='300'>
+<img src='https://github.com/svhein/Hokimanager-public/blob/main/images/GameScreen2.jpg' width='300'>
+</p>
 
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/LineupView.jpg)
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/ResultCenterScreen.jpg)
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/GameScreen1.jpg)
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/GameScreen2.jpg)
