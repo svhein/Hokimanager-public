@@ -1,17 +1,23 @@
 ## Hokimanager
 
-__Hokimanager__ will be text-based online mobile multiplayer game which simulates hockey team management - designed to be low effort, low time commitment but exciting game to play with other managers. <br>
-&nbsp;&nbsp;   To lead hes team to success, manager has to manage team's roster, finances, training, tactics and more. In the heart of the game is it's hockey-game simulator, which is being built to deliver as realistic hockey game results as possible.
+Multiplayer hockey team management game.
+- each player manages own team
+- games according to the match calendar
+- season lasts 3 - 4 months
+- creates new leagues dynamically when new users register
 
-&nbsp;&nbsp;Each season contains 3-4 months and contains regular season, playoffs and relegation and promotion games. New players are welcome to the game anytime; spot from division and new team is assigned them automatically. 
+#### Game simulator
+- crafted from bottom to up to provide realistic results
+- flow of the game changes dynamically based on tacticts, lineups, heat detector, referees
+- testing tools
 
+ 
 ## Technical details
 
 ![image](https://github.com/svhein/Hokimanager-public/blob/main/images/Hokimanager_block_diagram.jpg)
 
 #### Frontend
 
-- TypeScript
 - React Native
   - Context API
   - React Navigation
@@ -19,15 +25,15 @@ __Hokimanager__ will be text-based online mobile multiplayer game which simulate
 
 #### Backend
 
-- TypeScript & Node
-- API build with Express
-  - with team builder
+- Node runtime
+  - API
 - PostgreSQL database
-- Scheduled microservice runner (runs once each day)
-  - simulate the games of the day
-  - daily finance operations
-  - daily player operations
-  - etc..
+- Cloud functions
+  - Game Simulator API
+  - Daily scheduled tasks
+- Firebase Auth
+- GCP Cloud Storage
+  
 
 #### Game simulator
 
