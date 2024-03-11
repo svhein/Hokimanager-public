@@ -14,7 +14,7 @@ Multiplayer hockey team management game.
  
 ## Technical details
 
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/Hokimanager_block_diagram.jpg)
+![image](https://github.com/svhein/Hokimanager-public/blob/main/images/Hokimanager_block_diagram2.jpg)
 
 #### Frontend
 
