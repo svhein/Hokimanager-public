@@ -43,7 +43,7 @@ Game simulator takes both teams lineups & tactics as input
 
 #### Database diagram
 
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/database_diagram.png)
+![image](https://github.com/svhein/Hokimanager-public/blob/main/images/Hokimanager_Schema.svg)
 
 
 ## Screenshots
