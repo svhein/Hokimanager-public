@@ -39,7 +39,7 @@ Multiplayer hockey team management game.
 
 Game simulator takes both teams lineups & tactics as input
 
-![image](https://github.com/svhein/Hokimanager-public/blob/main/images/GameSimulator_diagram.jpg)
+![image](https://github.com/svhein/Hokimanager-public/blob/main/images/GameSimulator_diagram.svg)
 
 #### Database diagram
 
